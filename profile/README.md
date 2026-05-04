@@ -1,5 +1,5 @@
 ## bug-free-octo-couscous
-make something using haskell
+
 <!--
 
 **Here are some ideas to get you started:**

@@ -1,5 +1,6 @@
 ## bug-free-octo-couscous
 ![bug-free-octo-couscous](bug-free-octo-couscous.png)
+learn haskell
 <!--
 
 **Here are some ideas to get you started:**
